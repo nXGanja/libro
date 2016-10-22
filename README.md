@@ -1,2 +1,3 @@
 # libro
-Mi Objeto libro
+Mi registro para libros
+
